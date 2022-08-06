@@ -1,5 +1,4 @@
-[!(https://github-readme-stats.vercel.app/api?username=jjeweles)]
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjeweles&show_icons=true&count_private=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **jjeweles/jjeweles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
