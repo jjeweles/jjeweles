@@ -1,8 +1,17 @@
 # jjeweles
 ```json
 {
-  "firstName": "Justin",
-  "lastName": "Jewell"
+  "bio": 
+  {
+    "firstName": "Justin",
+    "lastName": "Jewell"
+  }
+  "technologies": 
+  {
+    "frontEnd": ["HTML", "CSS", "Javascript", "React"],
+    "backEnd": ["NodeJS", "Express", "Python", "Java"],
+    "databases": ["MongoDB", "SQlite", "MySQL", "Firebase"]
+  }
 }
 ```
 
